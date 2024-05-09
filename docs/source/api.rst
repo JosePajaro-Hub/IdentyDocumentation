@@ -3,12 +3,12 @@
    :toctree: generated
 
 1.	Objetivo
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Describir de manera técnica y detallada el consumo de los servicios de IDENTY. 
 
 2.	Usuario y contraseña
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
  Para poder consumir los servicios y generar un token es necesario solicitar un usuario y una contraseña. 
  
