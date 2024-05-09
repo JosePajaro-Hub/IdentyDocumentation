@@ -2,7 +2,6 @@
 .. autosummary::
    :toctree: generated
 
-.. _objetivo:
 1.	Objetivo
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
