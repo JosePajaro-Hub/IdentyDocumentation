@@ -32,8 +32,8 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 +----------------------+--------+--------+-------------+--------------------------------------------------------------------------+
 | format               | enum   | 2      | si          | Es la extensión de la imagen que se envía, preferiblemente png.          |
 +----------------------+--------+--------+-------------+--------------------------------------------------------------------------+
-| level                | enum   | 3      | si          | Es un string que puede variar entre high, me-dium, low,                  |
-|                      |        |        |             |   correspon-de al nivel de seguri-dad o restricción                      |
+| level                | enum   | 3      | si          | Es un string que puede variar entre high, me-dium, low                   |
+|                      |        |        |             |   correspon de al nivel de seguri-dad o restricción.                     |
 +----------------------+--------+--------+-------------+--------------------------------------------------------------------------+
 
 .. _jsonEntrada3:
