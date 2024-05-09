@@ -61,7 +61,6 @@ Como respuesta de la operación se va a devolver un (Código 200 - Inicio de Ses
 
 El siguiente es un ejemplo JSON con el formato token de un response: 
 
-   .. image:: img/Captura.png
-      :width: 400
-      :height: 300
-      :alt: Ejemplo JSON de entrada
+.. raw:: html
+
+   <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=c757da54-6467-466d-a49b-cc199aa5d00b" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura3.4.PNG"></iframe>
