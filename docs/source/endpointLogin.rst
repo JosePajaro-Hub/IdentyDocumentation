@@ -37,9 +37,8 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 
 3.2     Ejemplo JSON de entrada
 
-.. image:: img/Captura.png
+.. image:: images/Captura.png
    :width: 400
-   :height: 300
    :alt: Ejemplo JSON de entrada
 
 3.3      Respuesta 

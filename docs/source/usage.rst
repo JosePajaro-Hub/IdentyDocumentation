@@ -1,7 +1,6 @@
 Revisión y Versiones
 =====
 
-.. _installation:
 
 +----------------------------+-------------------+--------------------+--------------+
 |Nombres y Apellidos         | Versión Aprobada |  Cargo              |   Fecha      |
@@ -14,9 +13,9 @@ Revisión y Versiones
 +----------------------------+------------------+---------------------+--------------+
 
 
-====
+
 Control de cambios
-.. _installation:
+====
 
 +-----------------+-----------------+----------------+--------------------------+
 |Fecha            | Autor           |  Versión       |   Descripción del cambio |
