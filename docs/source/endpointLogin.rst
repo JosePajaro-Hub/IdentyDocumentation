@@ -15,7 +15,7 @@ Describir de manera técnica y detallada el consumo de los servicios de IDENTY.
  Para poder consumir los servicios y generar un token es necesario solicitar un usuario y una contraseña. 
  
 .. _endpointLogin::
-3.Endpoint Login
+3. Endpoint Login
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Todas las operaciones POST deben consumir un token el cual será generado a través del servicio login (ingresando usuario y contraseña previamente solicitados) y este debe ser ingresado al momento de consumir cada servicio.
@@ -24,8 +24,9 @@ AMBIENTE: Producción
 
 URL Servicio: https://cotejoselfie-core.gse.com.co/BackLogin/users/login
 
-
-3.1.     Parámetros de entrada
+.. _ParametrosDeEntrada::
+3.1. Parámetros de entrada
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Objeto JSON que debe cumplir con los siguientes atributos:
 

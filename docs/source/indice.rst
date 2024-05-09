@@ -8,10 +8,12 @@ Tabla de contenido
 1. :ref:`Objetivo <objetivo>`
 2. :ref:`Usuario y contraseña <usuarioContrasena>`
 3. :ref:`Endpoint Login <endpointLogin>`
-   3.1. Parámetros de entrada
+
+   3.1. :ref:`Parametros de entrada <ParametrosDeEntrada>`
    3.2. Ejemplo JSON de entrada
    3.3. Respuesta
    3.4. Ejemplo JSON de respuesta
+
 4. Endpoint de obtención de la URL
    4.1. Parámetros de entrada
    4.2. Ejemplo JSON de entrada
