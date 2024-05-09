@@ -13,7 +13,7 @@ Contents
 --------
 
 .. toctree::
-   
+
    usage
    indice
-   api
+   endpointLogin

@@ -37,7 +37,23 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 
 3.2     Ejemplo JSON de entrada
 
-.. image:: docs/img/Captura.png
+.. image:: img/Captura.png
+   :width: 400
+   :height: 300
+   :alt: Ejemplo JSON de entrada
+
+3.3      Respuesta 
+
+Como respuesta de la operación se va a devolver un (Código 200 - Inicio de Se-sión Exitoso) un JSON con la siguiente estructura:
++---------------+--------+---------+---------------------------------+
+| Nombre        | Tipo   | Tamaño  | Descripción                     |
++===============+========+=========+=================================+
+| accessToken   | string |         | Cadena con el token de tipo JWT |
++---------------+--------+---------+---------------------------------+
+3.4.      Ejemplo JSON de respuesta 
+
+El siguiente es un ejemplo JSON con el formato token de un response: 
+.. image:: img/Captura.png
    :width: 400
    :height: 300
    :alt: Ejemplo JSON de entrada
