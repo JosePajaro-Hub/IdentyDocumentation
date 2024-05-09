@@ -37,9 +37,10 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 
 3.2     Ejemplo JSON de entrada
 
-.. image:: images/Captura.png
+.. image:: https://thinkdigitalco-my.sharepoint.com/:i:/g/personal/luna_herrera_gse_com_co/ETCU_nfitjtFmC3RwC6SavYBtyrWYTU5SV6W5L_MPOQ6aA?e=eZAweo
    :width: 400
    :alt: Ejemplo JSON de entrada
+
 
 .. raw:: html
 
