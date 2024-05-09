@@ -1,12 +1,21 @@
-Usage
+Revisión y Versiones
 =====
 
 .. _installation:
 
-Installation
-------------
++----------------------------+-------------------+--------------------+--------------+
+|Nombres y Apellidos         | Versión Aprobada |  Cargo              |   Fecha      |
++============================+==================+=====================+==============+
+| Marco Antonio González     |       1.0        |Desarrollador Junior
++--------------+-------------+------------------|---------------------|--------------|
+| José Manuel Pájaro         |       1.0        |Desarrollador Junior
++--------------+-------------+------------------|---------------------|--------------|
+| Omar Moreno                |       1.0        |Líder Técnico
++--------------+-------------+------------------|---------------------|--------------|
 
-To use Lumache, first install it using pip:
+
+====
+
 
 .. code-block:: console
 
