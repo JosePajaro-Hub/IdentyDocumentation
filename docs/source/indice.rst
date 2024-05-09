@@ -17,15 +17,15 @@ Tabla de contenido
 
    3.4. :ref:`Ejemplo JSON de respuesta <jsonRespuesta>`
 
-4. Endpoint de obtención de la URL
+4. :ref:`Endpoint de obtención de la URL <endpointObtencionUrl>` 
 
-   4.1. Parámetros de entrada
+   4.1. :ref:`Parámetros de entrada <parametrosDeEntrada2>`
 
-   4.2. Ejemplo JSON de entrada
+   4.2. :ref:`Ejemplo JSON de entrada <jsonEntrada2>`
 
-   4.3. Respuesta
+   4.3. :ref:`Respuesta <respuestaUrl2>`
 
-   4.4. Ejemplo JSON de respuesta
+   4.4. :ref:`Ejemplo JSON de respuesta <jsonRespuesta2>`
 
 5. Endpoint de match
 

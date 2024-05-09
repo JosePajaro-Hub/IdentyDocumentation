@@ -3,60 +3,59 @@
    :toctree: generated
 
 
-1.	Objetivo
+.. _endpointObtencionUrl:
+4.	Endpoint de obtención de la url 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Describir de manera técnica y detallada el consumo de los servicios de IDENTY. 
+Operación POST que genera la url para redirección e inicio del flujo del cotejo de validación facial contra documento de identidad.
 
-2.	Usuario y contraseña
-^^^^^^^^^^^^^^^^^^^^^^^^
+**AMBIENTE: Producción**  
+**URL Servicio:** https://cotejoselfie-core.gse.com.co/BackLogin/management/url
 
- Para poder consumir los servicios y generar un token es necesario solicitar un usuario y una contraseña. 
- 
-3.Endpoint Login
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-Todas las operaciones POST deben consumir un token el cual será generado a través del servicio login (ingresando usuario y contraseña previamente solicitados) y este debe ser ingresado al momento de consumir cada servicio.
-
-AMBIENTE: Producción  
-
-URL Servicio: https://cotejoselfie-core.gse.com.co/BackLogin/users/login
-
-
-3.1.     Parámetros de entrada
+.. _parametrosDeEntrada2:
+3.1. Parámetros de entrada
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Objeto JSON que debe cumplir con los siguientes atributos:
 
-+------------+--------+--------+-------------+---------------------------------------------------+
-| Nombre     | Tipo   | Tamaño | Obligatorio | Descripción                                       |
-+============+========+========+=============+===================================================+
-| email      | string | 30     | si          | Usuario para el acceso a Identy entregado por GSE |
-+------------+--------+--------+-------------+---------------------------------------------------+
-| password   | string | 30     | si          | Clave del usuario para el acceso a GSE            |
-+------------+--------+--------+-------------+---------------------------------------------------+
++----------------+--------+--------+-------------+--------------------------------------------------------------------------+
+| Nombre         | Tipo   | Tamaño | Obligatorio | Descripción                                                              |
++================+========+========+=============+==========================================================================+
+| urlSuccess     | string | 30     | si          | Url de redirección para cuando el proceso ha-ya finalizado exitosa-mente |
++----------------+--------+--------+-------------+--------------------------------------------------------------------------+
+| urlError       | string | 30     | si          | Url de redirección para cuando la validación de identidad sea errónea    |
++----------------+--------+--------+-------------+--------------------------------------------------------------------------+
+| typeDocument   | string | 30     | si          | Tipo de documento del usuario: tipos de do-cumentos validos: CC, CE, PA  |
++------------+--------+--------+-------------+------------------------------------------------------------------------------+
    
-
+.. _jsonEntrada2:
 3.2     Ejemplo JSON de entrada
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
-   <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=77fe9430-b6e2-453b-982d-d1c02e926af6" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura.PNG"></iframe>
+   <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=11d894bc-bda1-4d06-a9f9-6644c28ce1d1" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura4.PNG"></iframe>
 
+.. _respuestaUrl2:
 3.3      Respuesta 
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Como respuesta de la operación se va a devolver un (Código 200 - Inicio de Sesión Exitoso) un JSON con la siguiente estructura:
+Como respuesta de la operación se va a devolver un (Código 200 - Redirección Exitosa) un JSON con la siguiente estructura:
 
-+---------------+--------+---------+---------------------------------+
-| Nombre        | Tipo   | Tamaño  | Descripción                     |
-+===============+========+=========+=================================+
-| accessToken   | string |         | Cadena con el token de tipo JWT |
-+---------------+--------+---------+---------------------------------+
++---------------+--------+---------+----------------------------------------------------------------------+
+| Nombre        | Tipo   | Tamaño  | Descripción                                                          |
++===============+========+=========+======================================================================+
+| result        | Object |         | Resultado de la genera-ción de la url                                |
++---------------+--------+---------+----------------------------------------------------------------------+
+| redirect      | String |   max   | Url para consumo del servicio de cotejo de vali-dación de identidad. |
++---------------+--------+---------+----------------------------------------------------------------------+
 
-
+.. _jsonRespuesta2:
 3.4.      Ejemplo JSON de respuesta 
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 El siguiente es un ejemplo JSON con el formato token de un response: 
 
 .. raw:: html
 
-   <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=c757da54-6467-466d-a49b-cc199aa5d00b" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura3.4.PNG"></iframe>
+<iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=64f097ce-186d-41ed-a332-5514956f466c" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura4.1.PNG"></iframe>

@@ -2,7 +2,7 @@ Acuerdo de interfaz IDENTY!
 ===================================
 
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`revisionVersiones` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -14,6 +14,6 @@ Contents
 
 .. toctree::
 
-   usage
+   revisionVersiones
    indice
    endpointLogin
