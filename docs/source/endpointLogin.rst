@@ -14,7 +14,7 @@ Describir de manera técnica y detallada el consumo de los servicios de IDENTY.
 
  Para poder consumir los servicios y generar un token es necesario solicitar un usuario y una contraseña. 
  
-.. _endpointLogin::
+.. _endpoint::
 3. Endpoint Login
 ^^^^^^^^^^^^^^^^^^^^^^^^
 

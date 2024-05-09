@@ -7,9 +7,9 @@ Tabla de contenido
 
 1. :ref:`Objetivo <objetivo>`
 2. :ref:`Usuario y contraseña <usuarioContrasena>`
-3. :ref:`Endpoint Login <endpointLogin>`
+3. :ref:`Endpoint Login <endpoint>`
 
-   3.1. :ref:`Parámetros de entrada <ParametrosDeEntrada>`
+   3.1. :ref:`Parámetros de entrada <usuarioContrasena>`
 
    3.2. Ejemplo JSON de entrada
 
@@ -36,5 +36,5 @@ Tabla de contenido
    5.3. Respuesta
 
    5.4. Ejemplo JSON de respuesta
-   
+
 6. Aprobación del documento
