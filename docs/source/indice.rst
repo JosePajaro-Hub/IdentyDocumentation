@@ -27,14 +27,14 @@ Tabla de contenido
 
    4.4. :ref:`Ejemplo JSON de respuesta <jsonRespuesta2>`
 
-5. Endpoint de match
+5. :ref:`Endpoint de match <endpointMatch>`
 
-   5.1. Parámetros de entrada
+   5.1. :ref:`Parámetros de entrada <parametrosDeEntrada3>` 
 
-   5.2. Ejemplo JSON de entrada
+   5.2. :ref:`Ejemplo JSON de entrada <jsonEntrada3>`
 
-   5.3. Respuesta
+   5.3. :ref:`Respuesta <respuestaUrl3>`
 
-   5.4. Ejemplo JSON de respuesta
+   5.4. :ref:`Ejemplo JSON de respuesta <jsonRespuesta3>`
 
 6. Aprobación del documento

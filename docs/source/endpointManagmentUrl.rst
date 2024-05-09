@@ -14,7 +14,7 @@ Operación POST que genera la url para redirección e inicio del flujo del cotej
 **URL Servicio:** https://cotejoselfie-core.gse.com.co/BackLogin/management/url
 
 .. _parametrosDeEntrada2:
-3.1. Parámetros de entrada
+4.1. Parámetros de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Objeto JSON que debe cumplir con los siguientes atributos:
@@ -30,7 +30,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 +------------+--------+--------+-------------+------------------------------------------------------------------------------+
    
 .. _jsonEntrada2:
-3.2     Ejemplo JSON de entrada
+4.2     Ejemplo JSON de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -38,7 +38,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
    <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=11d894bc-bda1-4d06-a9f9-6644c28ce1d1" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura4.PNG"></iframe>
 
 .. _respuestaUrl2:
-3.3      Respuesta 
+4.3      Respuesta 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Como respuesta de la operación se va a devolver un (Código 200 - Redirección Exitosa) un JSON con la siguiente estructura:
@@ -52,7 +52,7 @@ Como respuesta de la operación se va a devolver un (Código 200 - Redirección 
 +---------------+--------+---------+----------------------------------------------------------------------+
 
 .. _jsonRespuesta2:
-3.4.      Ejemplo JSON de respuesta 
+4.4.      Ejemplo JSON de respuesta 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 El siguiente es un ejemplo JSON con el formato token de un response: 
