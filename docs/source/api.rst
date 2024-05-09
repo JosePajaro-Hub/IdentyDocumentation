@@ -26,6 +26,7 @@ URL Servicio: https://cotejoselfie-core.gse.com.co/BackLogin/users/login
 --------------------------
 
 Objeto JSON que debe cumplir con los siguientes atributos:
+.. _installation:
 +-----------+----------+---------+----------------+--------------------------------------------------+
 |Nombre     | Tipo     | Tamaño  |  Obligatorio   |  Descripcion                                     |
 +===========+==========+=========+================+==================================================+
@@ -36,7 +37,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
    
 3.2     Ejemplo JSON de entrada
 --------------------------
-.. image:: docs/img/Captura.png
+.. image:: ../docs/img/Captura.png
    :width: 400px
    :height: 300px
    :alt: Ejemplo JSON de entrada
