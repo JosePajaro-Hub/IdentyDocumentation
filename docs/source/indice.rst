@@ -5,8 +5,8 @@ Tabla de contenido
    :toctree: generated
 
 
-1. :ref:`1. Objetivo <objetivo>`
-2. Usuario y contraseña
+:ref:`1. Objetivo <objetivo>`
+:ref:`2. Usuario y contraseña <usuario y contraseña>`
 3. Endpoint Login
    3.1. Parámetros de entrada
    3.2. Ejemplo JSON de entrada
