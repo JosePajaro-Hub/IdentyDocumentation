@@ -13,7 +13,7 @@ Contents
 --------
 
 .. toctree::
-
-   indice
+   
    usage
+   indice
    api
