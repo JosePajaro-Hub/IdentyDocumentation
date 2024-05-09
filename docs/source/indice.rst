@@ -37,4 +37,4 @@ Tabla de contenido
 
    5.4. :ref:`Ejemplo JSON de respuesta <jsonRespuesta3>`
 
-6. Aprobación del documento
+6. :ref:`Aprobación del documento <aprobacionDocumento>`

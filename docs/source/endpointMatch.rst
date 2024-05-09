@@ -14,7 +14,7 @@ Operación POST que hace la comparación de la imagen del documento de identidad
 **URL Servicio:** https://qa-identy-web-api.gse.com.co/api/v1/matchWithSelfie
 
 .. _parametrosDeEntrada3:
-4.1. Parámetros de entrada
+5.1. Parámetros de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Objeto JSON que debe cumplir con los siguientes atributos:
@@ -37,7 +37,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 +----------------------+--------+--------+-------------+--------------------------------------------------------------------------+
 
 .. _jsonEntrada3:
-4.2     Ejemplo JSON de entrada
+5.2     Ejemplo JSON de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
@@ -49,7 +49,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
    <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=0b0df57e-1b9c-487b-ba58-469645ea0555" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura5.2.PNG"></iframe>
 
 .. _respuestaUrl3:
-4.3      Respuesta 
+5.3      Respuesta 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Como respuesta de la operación se va a devolver un (Código 200 - Redirección Exitosa) un JSON con la siguiente estructura:
@@ -74,7 +74,7 @@ Como respuesta de la operación se va a devolver un (Código 200 - Redirección 
 +-------------------+--------+---------+----------------------------------------------------------------------+
 
 .. _jsonRespuesta3:
-4.4.      Ejemplo JSON de respuesta 
+5.4.      Ejemplo JSON de respuesta 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 El siguiente es un ejemplo JSON con el formato token de un response: 

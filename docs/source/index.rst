@@ -17,3 +17,5 @@ Contents
    revisionVersiones
    indice
    endpointLogin
+   endpointManagment
+   endpointMatch
