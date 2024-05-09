@@ -1,5 +1,5 @@
 Tabla de contenido
-===================================
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. autosummary::
    :toctree: generated
