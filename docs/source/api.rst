@@ -24,17 +24,17 @@ URL Servicio: https://cotejoselfie-core.gse.com.co/BackLogin/users/login
 
 3.1.     Parámetros de entrada
 --------------------------
-
 Objeto JSON que debe cumplir con los siguientes atributos:
-.. _installation:
-+-----------+----------+---------+----------------+--------------------------------------------------+
-|Nombre     | Tipo     | Tamaño  |  Obligatorio   |  Descripcion                                     |
-+===========+==========+=========+================+==================================================+
-| email     |  string  |    30   |    si          |Usuario para el acceso a Identy entregado por GSE |
-+-----------+----------+---------+----------------+--------------------------------------------------+
-| password  |  string  |    30   |      si        |Clave del usuario para el acceso a GSE            |
-+-----------+----------+---------+----------------++-------------------------------------------------+
+
++------------+--------+--------+-------------+---------------------------------------------------+
+| Nombre     | Tipo   | Tamaño | Obligatorio | Descripción                                       |
++============+========+========+=============+===================================================+
+| email      | string | 30     | si          | Usuario para el acceso a Identy entregado por GSE |
++------------+--------+--------+-------------+---------------------------------------------------+
+| password   | string | 30     | si          | Clave del usuario para el acceso a GSE            |
++------------+--------+--------+-------------+---------------------------------------------------+
    
+
 3.2     Ejemplo JSON de entrada
 --------------------------
 .. image:: ../docs/img/Captura.png
