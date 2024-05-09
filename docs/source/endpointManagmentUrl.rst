@@ -10,6 +10,7 @@
 Operación POST que genera la url para redirección e inicio del flujo del cotejo de validación facial contra documento de identidad.
 
 **AMBIENTE: Producción**  
+
 **URL Servicio:** https://cotejoselfie-core.gse.com.co/BackLogin/management/url
 
 .. _parametrosDeEntrada2:
@@ -58,4 +59,4 @@ El siguiente es un ejemplo JSON con el formato token de un response:
 
 .. raw:: html
 
-<iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=64f097ce-186d-41ed-a332-5514956f466c" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura4.1.PNG"></iframe>
+   <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=64f097ce-186d-41ed-a332-5514956f466c" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura4.1.PNG"></iframe>
