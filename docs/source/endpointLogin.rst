@@ -43,7 +43,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-.. image:: https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778
+.. image:: "https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"
    :width: 400
    :height: 300
    :alt: Mi Imagen
