@@ -51,6 +51,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 
 
 .. raw:: html
+   
    <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=77fe9430-b6e2-453b-982d-d1c02e926af6" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Captura.PNG"></iframe>
 
 .. _respuestaLogin:
