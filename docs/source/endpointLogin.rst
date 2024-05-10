@@ -51,7 +51,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 
 .. raw:: html
 
-   <iframe srcdoc="<img src='https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778' alt='Cellphone Mockup' style='width: 100%; height: auto;'>"></iframe>
+   <iframe src="https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778" alt='Cellphone Mockup'  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen"></iframe>
 
 
 .. raw:: html
