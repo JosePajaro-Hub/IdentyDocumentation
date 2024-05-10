@@ -42,15 +42,15 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 3.2     Ejemplo JSON de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /images/Captura.png
-   :width: 600
-   :height: 300
-   :alt: imagen directa
+.. .. image:: /images/Captura.png
+..    :width: 600
+..    :height: 300
+..    :alt: imagen directa
 
-.. image:: "https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"
-   :width: 400
-   :height: 300
-   :alt: imagen desde glitch
+.. .. image:: "https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"
+..    :width: 400
+..    :height: 300
+..    :alt: imagen desde glitch
 
 
 .. raw:: html
@@ -58,10 +58,10 @@ Objeto JSON que debe cumplir con los siguientes atributos:
    <iframe src="https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"  title='iframe glitch'  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen"></iframe>
 
 
-.. raw:: html
+.. .. raw:: html
 
 
-   <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=77fe9430-b6e2-453b-982d-d1c02e926af6" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="iframe sharepoint"></iframe>
+..    <iframe src="https://thinkdigitalco-my.sharepoint.com/personal/luna_herrera_gse_com_co/_layouts/15/embed.aspx?UniqueId=77fe9430-b6e2-453b-982d-d1c02e926af6" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="iframe sharepoint"></iframe>
 
 .. _respuestaLogin:
 3.3      Respuesta 
