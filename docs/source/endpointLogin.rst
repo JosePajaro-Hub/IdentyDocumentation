@@ -43,7 +43,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /images/Captura.png
-   :width: 400
+   :width: 600
    :height: 300
    :alt: Mi Imagen
 
