@@ -53,9 +53,9 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 ..    :alt: imagen desde glitch
 
 
-.. raw:: html
+.. .. raw:: html
 
-   <iframe src="https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"  title='iframe glitch'  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen"></iframe>
+..    <iframe src="https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"  title='iframe glitch'  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen"></iframe>
 
 
 .. .. raw:: html
