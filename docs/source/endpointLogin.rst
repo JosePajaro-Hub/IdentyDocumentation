@@ -42,7 +42,7 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 3.2     Ejemplo JSON de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /images/Captura.png
+.. image:: ../images/Captura.png
    :width: 600
    :height: 300
    :alt: imagen directa

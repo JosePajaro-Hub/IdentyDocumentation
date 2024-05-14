@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-
+import os
 project = 'Identy'
 copyright = '2024, GSE'
 author = 'GSE'
@@ -30,6 +30,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['images']
+html_static_path = [os.path.join('..', 'images')]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
