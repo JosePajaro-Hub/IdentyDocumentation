@@ -42,10 +42,10 @@ Objeto JSON que debe cumplir con los siguientes atributos:
 3.2     Ejemplo JSON de entrada
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. .. image:: /images/Captura.png
-..    :width: 600
-..    :height: 300
-..    :alt: imagen directa
+.. image:: /images/Captura.png
+   :width: 600
+   :height: 300
+   :alt: imagen directa
 
 .. .. image:: "https://cdn.glitch.global/8481b17f-3a2d-4937-9c96-e6ebf3b31677/CellphoneMockupHand.gif?v=1712607345778"
 ..    :width: 400
